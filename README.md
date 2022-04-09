@@ -1,5 +1,17 @@
 # 第十三届蓝桥杯省赛 Python Ｂ组
 
+## 写在前面
+
+本次所有代码均存放于仓库：
+
+`Github`：[GxlHus/Algorithm at 蓝桥杯 (github.com)](https://github.com/GxlHus/Algorithm/tree/蓝桥杯)
+
+`Gitee`：[Algorithm: 算法解题 - Gitee.com](https://gitee.com/ayo_yo/Algorithm/tree/蓝桥杯/)
+
+本次省赛题目总体来说不难，总体质量比较高，尤其是后边几道题，虽然能轻易做出来，但是想跑通所有测试点，还得下功夫优化，做起来比较有意思，不像之前有些题做出来就满分，做不出来就毫无头绪，参与感不强。。
+
+把自己的解题思路写在这里，也仅代表我个人理解得出的思路，不代表官方答案，欢迎大家交流，指正错误。
+
 ## 试题A：排列字母
 
 本题总分：5 分
