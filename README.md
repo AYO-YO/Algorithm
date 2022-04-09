@@ -8,7 +8,7 @@
 
 `Gitee`：[Algorithm: 算法解题 - Gitee.com](https://gitee.com/ayo_yo/Algorithm/tree/蓝桥杯/)
 
-原题目：[第十三届蓝桥杯软件大赛软件赛省赛_PB.pdf](./LQB/第十三届蓝桥杯大赛软件赛省赛_PB.pdf)
+原题目：[第十三届蓝桥杯大赛软件赛省赛_PB.pdf · AYO/Algorithm - Gitee.com](https://gitee.com/ayo_yo/Algorithm/blob/蓝桥杯/第十三届蓝桥杯大赛软件赛省赛_PB.pdf)
 
 本次省赛题目总体来说不难，总体质量比较高，尤其是后边几道题，虽然能轻易做出来，但是想跑通所有测试点，还得下功夫优化，做起来比较有意思，不像之前有些题做出来就满分，做不出来就毫无头绪，参与感不强。。
 
