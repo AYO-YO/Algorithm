@@ -1,15 +1,10 @@
 """https://nanti.jisuanke.com/t/T1371"""
 
 m, k = map(int, input().split())
-t = m
-m //= k
-sy = m % k
-t += m
-m += sy
-while m > k:
-    m //= k
-    t += m
-    if m % k != 0:
-        sy = m % k
-        m += sy
-print(t)
+d = 0
+while m > 0:
+    m -= 1
+    d += 1
+    if d % k == 0:
+        m += 1
+print(d)
