@@ -83,3 +83,7 @@ for p in bigNum:
    ```
 
 【完整代码】
+
+比赛过程中的代码是分步骤的，一步步写，然后得到结果后再计算下一步，这个代码是优化过的完整版代码，直接运行就能得到最终结果。
+
+[B.py · AYO/Algorithm - 码云 - 开源中国 (gitee.com)](https://gitee.com/ayo_yo/Algorithm/blob/蓝桥杯_国赛/B.py)
