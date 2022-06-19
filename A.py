@@ -14,8 +14,10 @@ def calc(n):
     s = str(n)
     if s[0] == '1':
         return int('1' + (len(s) - 3) * '3' + '4')
-    else:
+    elif s[0] == '2':
         return int('2' + (len(s) - 3) * '6' + '7')
+    else:
+        return 0
 
 
 m = str(202202011200)
